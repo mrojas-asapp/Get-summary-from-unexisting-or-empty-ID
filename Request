@@ -1,0 +1,17 @@
+{
+  "properties": {
+    "queue": "queue-123",
+    "organizationalGroup": "OG1",
+    "subdivision": "somedivision"
+  },
+  "externalId": "",
+  "agent": {
+      "externalId": "agent124",
+      "name": "John Smith21111"
+  },
+  "customer": {
+      "externalId": "customer456",
+      "name": "Jane Doe"
+  },
+  "timestamp": "{{currentDate}}"
+}
